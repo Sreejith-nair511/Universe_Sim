@@ -1,6 +1,6 @@
-Project Overview
+<h1>Project Overview</h1>
 
-'nova-sim' appears to be a web-based cosmic simulation tool designed to load and prepare cosmic simulations, offering users an interactive experience of the universe.
+<h3>'nova-sim' appears to be a web-based cosmic simulation tool designed to load and prepare cosmic simulations, offering users an interactive experience of the universe.</h3>
 
 Features
 
@@ -21,7 +21,8 @@ Fork the Repository: Start by forking the project repository.
 Implement Features or Fixes: Develop new features or address existing issues.
 Submit a Pull Request: Once your changes are ready, submit a pull request for review.
 
-![image](https://github.com/user-attachments/assets/366fa81a-1871-45cd-bb1d-511efe5f62f2)
+![Screenshot 2025-03-10 093212](https://github.com/user-attachments/assets/ccfe648e-1cc9-4606-9a2e-7265b593038d)
+
 
 ![image](https://github.com/user-attachments/assets/5a4d7ece-260f-48ef-996b-88e56a4acd5a)
 
